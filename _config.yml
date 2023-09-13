@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Palucci / Site Title"
+title                    : "Jonathan Palucci"
 title_separator          : "-"
 name                     : &name "Jonathan Palucci"
 description              : &description "Jonathan Palucci"
