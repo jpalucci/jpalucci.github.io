@@ -1,7 +1,7 @@
 ---
 title: "Modal Ingredients of Causative *have*"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: 'This paper explores the contribution of *have* when used in causative constructions.'
 date: 2023-01-01
 venue: 'Proceedings of NELS 53'
