@@ -1,7 +1,7 @@
 ---
 title: "Pseudo-scoping out of tensed clauses: the case of cumulation"
 collection: publications
-permalink: /publication/nels-54-publication
+permalink: /publication/nels54publication
 excerpt: 'This paper explores apparent cases of exceptionally wide-scoping universal DPs out of tensed complement clauses.'
 date: 2024-11-12
 venue: 'Proceedings of NELS 54'
