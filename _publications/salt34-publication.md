@@ -1,5 +1,5 @@
 ---
-title: "Pseudo-scoping out of relative clauses: an `individual concept' approach"
+title: "Pseudo-scoping out of relative clauses: an 'individual concept' approach"
 collection: publications
 permalink: /publication/salt34-publication
 excerpt: 'This paper explores cases of apparent exceptionally wide-scoping universal DPs out of relative clauses.'
