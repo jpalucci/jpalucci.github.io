@@ -1,7 +1,7 @@
 ---
 title: "Pseudo-scoping out of tensed clauses: cumulation vs. buildups"
 collection: publications
-permalink: /publication/ELM3-publication
+permalink: /publication/elm3-publication
 excerpt: 'This paper explores cases of apparent exceptionally wide-scoping universal DPs out of tensed clauses and compares two different approaches.'
 date: 2024-01-01
 venue: 'Proceedings of ELM 3'
