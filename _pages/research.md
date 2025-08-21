@@ -29,7 +29,7 @@ Please get in touch for any papers not available here.
 
 ## Presentations
 
-###2024
+### 2024
 
 *Pseudo-scoping out of relative clauses: a functional approach* [Invited talk]. Sinn und Bedeutung 29, Noto, Sicily.
 
@@ -39,27 +39,27 @@ Please get in touch for any papers not available here.
 
 *Pseudo-scoping out of tensed clauses: the case of cumulation* [Invited Talk]. 54th Annual Meeting of the North East Linguistic Society, Cambridge, Massachusetts.
 
-###2023
+### 2023
 
 *Tensed clauses as scope islands* [Invited Talk]. The Toronto-Ottawa-Montreal Semantics Workshop, Montreal, Quebec.
 
 *Modal ingredients of causative `have'* [Invited Talk]. 53rd Annual Meeting of the North East Linguistic Society, Göttingen, Germany.
 
-###2021
+### 2021
 
 *Unifying English causative and experiencer have: the affected argument* [Invited Talk]. The annual Montreal-Ottawa-Toronto-Hamilton Syntax Conference, Hamilton, Ontario.
 
 with Esmail Moghiseh \& Luis Alonso-Ovalle. *Against Obligatory Wide Scope for `Any'* [Poster Presentation]. The 39th meeting of the West Coast Conference on Formal Linguistics, Tucson, Arizona.
 
-###2020
+### 2020
 
 with Luis Alonso-Ovalle. *Numeral `Any': In Favor of Viability* [Poster Presentation]. 51st Annual Meeting of the North East Linguistics Society, Montreal, Quebec.
 
 ## Manuscripts
 
-*  Paper on Scoping out of tensed clause.
-*  Paper on Scoping out of relative clauses.
-*  Paper on `have' causatives. 
-*  Paper on Covert reciprocals.
-*  Paper on Free choice `any'
+*  **Pseudo-scoping out of relative clauses:** paper exploring whether universal quantifiers can covertly scope shift out of relative clauses.
+*  **Exceptional wide scope as cumulation:** paper exploring whether universal quantifiers can covertly scope shift out of tensed clauses
+*  ***have* causatives always project possibilities from facts:** paper exploring the properties of causative *have* constructions, particularly the modal components (joint work with Luis Alonso-Ovalle)
+*  **Covert reciprocals:** paper exploring the treatment of covert reciprocals in English (joint work with Brendan Gillon and David Nicolas)
+*  **Against obligatory wide scope for *any*:** paper exploring the scopal properties of free choice *any* (joint work with Luis Alonso-Ovalle and Esmail Moghiseh)
 
