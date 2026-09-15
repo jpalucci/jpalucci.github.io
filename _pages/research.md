@@ -31,23 +31,23 @@ Please get in touch for any papers not available here.
 
 ### 2024
 
-*Pseudo-scoping out of relative clauses: a functional approach* [Invited talk]. Sinn und Bedeutung 29, Noto, Sicily.
+*Pseudo-scoping out of relative clauses: a functional approach* [Oral Presentation]. Sinn und Bedeutung 29, Noto, Sicily.
 
 *Pseudo-scoping out of tensed clauses: cumulation vs. buildups* [Poster Presentation]. Experiments in Linguistic Meaning 3, Philadelphia, Pennsylvania.
 
 *Pseudo-scoping out of relative clauses: an `individual concept' approach* [Poster Presentation]. 34th Annual Conference on Semantics and Linguistic Theory, Rochester, New York.
 
-*Pseudo-scoping out of tensed clauses: the case of cumulation* [Invited Talk]. 54th Annual Meeting of the North East Linguistic Society, Cambridge, Massachusetts.
+*Pseudo-scoping out of tensed clauses: the case of cumulation* [Oral Presentation]. 54th Annual Meeting of the North East Linguistic Society, Cambridge, Massachusetts.
 
 ### 2023
 
-*Tensed clauses as scope islands* [Invited Talk]. The Toronto-Ottawa-Montreal Semantics Workshop, Montreal, Quebec.
+*Tensed clauses as scope islands* [Oral Presentation]. The Toronto-Ottawa-Montreal Semantics Workshop, Montreal, Quebec.
 
-*Modal ingredients of causative `have'* [Invited Talk]. 53rd Annual Meeting of the North East Linguistic Society, Göttingen, Germany.
+*Modal ingredients of causative `have'* [Oral Presentation]. 53rd Annual Meeting of the North East Linguistic Society, Göttingen, Germany.
 
 ### 2021
 
-*Unifying English causative and experiencer have: the affected argument* [Invited Talk]. The annual Montreal-Ottawa-Toronto-Hamilton Syntax Conference, Hamilton, Ontario.
+*Unifying English causative and experiencer have: the affected argument* [Oral Presentation]. The annual Montreal-Ottawa-Toronto-Hamilton Syntax Conference, Hamilton, Ontario.
 
 with Esmail Moghiseh \& Luis Alonso-Ovalle. *Against Obligatory Wide Scope for `Any'* [Poster Presentation]. The 39th meeting of the West Coast Conference on Formal Linguistics, Tucson, Arizona.
 
@@ -57,7 +57,7 @@ with Luis Alonso-Ovalle. *Numeral `Any': In Favor of Viability* [Poster Presenta
 
 ## Manuscripts
 
-*  **Pseudo-scoping out of relative clauses:** paper exploring whether universal quantifiers can covertly scope shift out of relative clauses.
+*  **Pseudo-scoping out of relative clauses (Accepted):** paper exploring whether universal quantifiers can covertly scope shift out of relative clauses.
 *  **Exceptional wide scope as cumulation:** paper exploring whether universal quantifiers can covertly scope shift out of tensed clauses
 *  ***have* causatives always project possibilities from facts:** paper exploring the properties of causative *have* constructions, particularly the modal components (joint work with Luis Alonso-Ovalle)
 *  **Covert reciprocals:** paper exploring the treatment of covert reciprocals in English (joint work with Brendan Gillon and David Nicolas)
