@@ -8,6 +8,8 @@ author_profile: true
 ## Course Lecturer
 ### Linguistics Department, McGill University,
 
+- **Ling 260: Meaning in Language**, Fall 2026.
+- **Ling 260: Meaning in Language**, Winter 2026. Co-instructor: Luis Alonso-Ovalle
 - **Ling 660: Semantics 3 (Graduate Course)**, Fall 2025. Co-instructor: Bernhard Schwarz
 - **Ling 365: Pragmatics 1**, Fall 2025. Co-instructors: Luis-Alonso Ovalle \& Bernhard Schwarz
 - **LING 260: Meaning in Language**, Summer 2022.
