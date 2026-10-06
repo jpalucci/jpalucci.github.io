@@ -7,6 +7,10 @@ author_profile: true
 
 Please get in touch for any papers not available here.
 
+## Thesis
+
+* *Types of pseudo-scope: variation and non-local QR*. PhD thesis, McGill University. 2026. [[download]](http://jpalucci.github.io/files/PALUCCI_Jonathan_LING_thesis.pdf)
+
 ## Publications
 
 ## Proceedings Papers
