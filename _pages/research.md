@@ -13,6 +13,8 @@ Please get in touch for any papers not available here.
 
 ## Publications
 
+* *Pseudo-scoping out of relative clauses: varying definite readings and functional parses*. Journal of Semantics. In press. 
+
 ## Proceedings Papers
 
 * *Pseudo-scoping out of relative clauses: a functional approach*. Proceedings of Sinn und Bedeutung (SuB) 29. 2024.
@@ -61,7 +63,6 @@ with Luis Alonso-Ovalle. *Numeral `Any': In Favor of Viability* [Poster Presenta
 
 ## Manuscripts
 
-*  **Pseudo-scoping out of relative clauses (Accepted):** paper exploring whether universal quantifiers can covertly scope shift out of relative clauses.
 *  **Exceptional wide scope as cumulation:** paper exploring whether universal quantifiers can covertly scope shift out of tensed clauses
 *  ***have* causatives always project possibilities from facts:** paper exploring the properties of causative *have* constructions, particularly the modal components (joint work with Luis Alonso-Ovalle)
 *  **Covert reciprocals:** paper exploring the treatment of covert reciprocals in English (joint work with Brendan Gillon and David Nicolas)
