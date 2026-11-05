@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Please get in touch for any papers not available here.
+Please feel free to get in touch for any papers not available here.
 
 ## Thesis
 
@@ -13,7 +13,8 @@ Please get in touch for any papers not available here.
 
 ## Publications
 
-* *Pseudo-scoping out of relative clauses: varying definite readings and functional parses*. Journal of Semantics. In press. 
+* *Pseudo-scoping out of relative clauses: varying definite readings and functional parses*. Journal of Semantics. In press.
+* *'have' causatives always project possibilities from facts* (joint work with Luis Alonso-Ovalle). Semantics of Natural Languages. In press.
 
 ## Proceedings Papers
 
@@ -63,8 +64,8 @@ with Luis Alonso-Ovalle. *Numeral `Any': In Favor of Viability* [Poster Presenta
 
 ## Manuscripts
 
-*  **Exceptional wide scope as cumulation:** paper exploring whether universal quantifiers can covertly scope shift out of tensed clauses
-*  ***have* causatives always project possibilities from facts:** paper exploring the properties of causative *have* constructions, particularly the modal components (joint work with Luis Alonso-Ovalle)
+*  **Exceptional wide scope and cumulation:** paper exploring whether universal quantifiers can covertly scope shift out of tensed clauses (in revision, "revise and resubmit", at *Journal of Semantics*)
+*  **Maximality for definiteness and the ordering of functions in pair-list readings:** paper exploring the interpretation of definite DPs with relative clauses containing quantifiers (in revision, "major revisions", at *Linguistics and Philosophy*)
 *  **Covert reciprocals:** paper exploring the treatment of covert reciprocals in English (joint work with Brendan Gillon and David Nicolas)
-*  **Against obligatory wide scope for *any*:** paper exploring the scopal properties of free choice *any* (joint work with Luis Alonso-Ovalle and Esmail Moghiseh)
+*  **Against obligatory wide scope for *any*:** paper exploring the scopal properties of free choice *any* (unpublished manuscript; joint work with Luis Alonso-Ovalle and Esmail Moghiseh)
 
